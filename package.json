@@ -1,7 +1,7 @@
 {
-  "name": "react-from-scratch",
+  "name": "redux-video-series",
   "version": "1.0.0",
-  "description": "React from scratch",
+  "description": "Redux video series",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",

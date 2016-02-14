@@ -1,5 +1,5 @@
 const React = require('react');
 const ReactDom = require('react-dom');
-const Hello = require('./Hello');
+const Counter = require('./Counter');
 
-ReactDom.render(<Hello />, document.querySelector('#container'));
+ReactDom.render(<Counter />, document.querySelector('#container'));
