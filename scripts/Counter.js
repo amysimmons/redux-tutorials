@@ -13,7 +13,7 @@ const counter = (state = 0, action) => {
 			return state;
 	}
 }
-
+	
 //dumb Counter component, containing no business logic, 
 //it just specified how the state is rendered and how the callbacks are bound to the events
 const Counter = ({

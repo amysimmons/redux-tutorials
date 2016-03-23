@@ -28,5 +28,9 @@
     "react-hot-loader": "^1.3.0",
     "webpack": "^1.12.13",
     "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "deep-freeze": "0.0.1",
+    "expect": "^1.16.0"
   }
 }
